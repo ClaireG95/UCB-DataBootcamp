@@ -1,0 +1,29 @@
+Claire Golden
+UCB ext. Data Analysis and Visualization
+3/6/2022
+
+Week 4 Challenge Written Analysis
+
+	Overview
+This week, I was tasked with gathering and analyzing data from fifteen different schools to see if there is any relationship between school size, budget, type, and the students’ graded performance. To accomplish this, I created many data frames to display the data from the various schools and overall averages to look for overall patterns
+
+	Results
+District Summary:
+* The percentage of Passing Math decreased from 75% to 74.8%
+* The Overall Passing decreased from 65% to 64.9% 
+School Summary:
+
+* Average Math scores at Thomas High decreased from 83.42% to 83.35%
+* Average Reading scores at Thomas High increased from 83.84% to 83.89%
+
+Effect of Replacing 9th Grade Scores:
+* Replacing the data of the 9th graders’ math and reading scores affect Thomas high School, but has no impact on the other schools’ data (budget/student, avg math score, avg reading score, and percentages of math and reading all stay the same)
+* The changes to Thomas High School’s 9th grades caused the following changes:
+o Avg Math Score decreased from 79% to 78.9%
+o Avg Reading Score unchanged at 81.9%
+o Percentage of Math decreased from 75% to 74.8%
+o Percentage of Reading decreased from 86% to 85%
+o Overall Passing decreased from 65% to 64.9%
+
+       Summary
+Replacing the Math and Reading Scores for Thomas High School corrected the academic dishonesty and did not affect the integrity of the data for the rest of the schools in the study. 

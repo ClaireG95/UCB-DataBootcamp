@@ -1,0 +1,32 @@
+Claire Golden
+UCB Data Analysis and Visualization Bootcamp
+2/27/2022
+
+Week 3 Challenge: PyPoll Written Analysis
+
+	Overview of Election Audit
+This week I was tasked with auditing the election results of a Congressional precinct in Colorado. I was required to find and report the total number of votes cast, total number of votes for each candidate, the percentage of votes for each candidate, the winner of the popular vote count, the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest voter turnout.
+	Election Audit Results
+* Total Votes Cast: 369,711
+* Total Votes for each Candidate
+o Charles Casper Stockham: 85,213
+o Diana DeGette: 272,892
+o Raymon Anthony Doane: 11,606
+* Percentage of Votes for each Candidate
+o Charles Casper Stockham: 23.0%
+o Diana DeGette: 73.8%
+o Raymon Anthony Doane: 3.1%
+* Winner: Diana DeGette
+* Voter Turnout for each County
+o Jefferson: 38,855
+o Denver: 306,055
+o Arapahoe: 24,801
+* Voter Turnout Percentage
+o Jefferson: 10.5%
+o Denver: 82.8%
+o Arapahoe: 6.7%
+* Highest Voter Turnout: Denver
+
+   Election Audit Summary
+The script I used to perform this audit has variables that are very general so they could be applied to any state or a larger data set that includes more than three counties. With a deeper dive into this data set, it would be interesting to modify this code to find which candidate was most popular in each county. 
+

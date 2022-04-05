@@ -1,0 +1,27 @@
+Claire Golden
+April 1, 2022
+UCB Ext. Data Analysis Bootcamp
+
+Week 7 Challenge Written Analysis
+
+	Overview
+I was tasked this week to create and analyze an employee database for the fictional Pewlett Hackard company. With this data organization in place, I was able to gather the information of workers that are nearing eligible retiring age to assist in preparation to hire on new employees. I was also able to gather all the details on current employees born in the year 1965 to create a list of employees that are eligible to participate in a company mentorship program.
+
+	Results
+Retirement Titles: 
+
+
+
+Unique Titles:
+ 
+Retiring Titles:
+ 
+* The departments that lose the most employees to retirement are Senior Engineer, Senior Staff, and Engineers 
+* 64% of retiring employees carry senior titles
+* Managers lose the least number of employees to retirement
+
+Mentorship Eligibility: 
+* Most employees that are eligible for the mentorship program carry senior titles
+	
+       Summary
+The “silver tsunami” looks like it will hit Pewlett Hackard awfully hard as there are 90,398 roles that will need to be filled due to retirement. Unfortunately, the number of veteran employees that are eligible to mentor the new hires are vastly outnumbered at a meager 1,549. This would mean there would be 58 or 59 new hires partnered with a single mentor. This seems like an overwhelming prospect for those about to retire.

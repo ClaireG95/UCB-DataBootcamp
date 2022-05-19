@@ -1,0 +1,33 @@
+﻿Week 14 Challenge 
+Claire Golden
+
+
+        Overview
+
+
+This week I was tasked with putting together a visual presentation for investors to pitch the viability of a bike share program in Des Moines, Iowa. I used data from a successful bike share program in New York City to determine if this program could prosper in the Des Moines area.
+
+
+
+
+        Results
+
+
+CitiBike data from New York City shows that males are more likely to rent bikes and have longer rental times as well.
+  
+  
+
+Another conclusion to be drawn from this data is that the highest traffic of check in and check outs of bikes occur in the business district.   
+  
+
+
+
+I was also able to find that young adults (age 25-35) have the longest ride duration times compared to riders of other age groups.  
+
+
+
+
+        Summary
+
+
+Using these findings, the clear conclusion is that the target demographic for a successful bike share program is young men that live close to the business district and commute to work. When comparing census data between New York City and Des Moines. (https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045221), Des Moines has a higher percentage of males than NYC. The census data also shows that Des Moines has a much shorter average travel time to work. WIth all the gathered data showing Des Moines has a larger target demographic for this business, it is easy to see that Des Moines has the potential to be even more successful than NYC with a bike sharing program.
